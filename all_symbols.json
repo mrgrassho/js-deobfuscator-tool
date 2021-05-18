@@ -1,0 +1,232 @@
+[
+  {
+    "rep": "_0x4e73[0]",
+    "exp": "x",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[1]",
+    "exp": "q",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[2]",
+    "exp": "equals",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[3]",
+    "exp": "mod",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[4]",
+    "exp": "negate",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[5]",
+    "exp": "toBigInteger",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[6]",
+    "exp": "add",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[7]",
+    "exp": "subtract",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[8]",
+    "exp": "multiply",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[9]",
+    "exp": "square",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[10]",
+    "exp": "modInverse",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[11]",
+    "exp": "prototype",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[12]",
+    "exp": "divide",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[13]",
+    "exp": "curve",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[14]",
+    "exp": "y",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[15]",
+    "exp": "z",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[16]",
+    "exp": "ONE",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[17]",
+    "exp": "zinv",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[18]",
+    "exp": "reduce",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[19]",
+    "exp": "fromBigInteger",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[20]",
+    "exp": "isInfinity",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[21]",
+    "exp": "ZERO",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[22]",
+    "exp": "twice",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[23]",
+    "exp": "getInfinity",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[24]",
+    "exp": "3",
+    "type": "brac"
+  },
+  {
+    "rep": "_0x4e73[25]",
+    "exp": "shiftLeft",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[26]",
+    "exp": "signum",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[27]",
+    "exp": "a",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[28]",
+    "exp": "bitLength",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[29]",
+    "exp": "testBit",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[30]",
+    "exp": "getX",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[31]",
+    "exp": "getY",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[32]",
+    "exp": "multiplyTwo",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[33]",
+    "exp": "b",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[34]",
+    "exp": "infinity",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[35]",
+    "exp": "reducer",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[36]",
+    "exp": "length",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[37]",
+    "exp": "substr",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[38]",
+    "exp": "00",
+    "type": "brac"
+  },
+  {
+    "rep": "_0x4e73[39]",
+    "exp": "getQ",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[40]",
+    "exp": "0",
+    "type": "brac"
+  },
+  {
+    "rep": "_0x4e73[41]",
+    "exp": "04",
+    "type": "brac"
+  },
+  {
+    "rep": "_0x4e73[42]",
+    "exp": "getA",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[43]",
+    "exp": "getB",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[44]",
+    "exp": "decodePointHex",
+    "type": "func"
+  },
+  {
+    "rep": "_0x4e73[45]",
+    "exp": "encodePointHex",
+    "type": "func"
+  }
+]
