@@ -54,6 +54,7 @@ The extra symbols file need to follow this strucure:
 ```
 
 The field `type` specifies how the replacement symbol `rep` will be replaced with `exp`. The available options are:
+
 |type|description|how it works?|
 |:---:|:---:|:---:|
 |`var`| for variable names| Here `rep` is replaced with `exp` with no additional data|
