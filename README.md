@@ -1,6 +1,8 @@
-# Deobfuscate Tool
+# JS Deobfuscate Tool
 
-## Obfuscation Technique
+Tool for reading browser obfuscated JavaScript.
+
+## JS Obfuscation Technique
 
 Currently, this tool only works for the following Obfuscation technique.
 

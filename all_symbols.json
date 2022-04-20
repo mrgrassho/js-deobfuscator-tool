@@ -1,232 +1,382 @@
 [
   {
-    "rep": "_0x4e73[0]",
-    "exp": "x",
+    "rep": "_0xe6f6[0]",
+    "exp": "0f0e0d0c0b0a09080706050403020100",
+    "type": "brac"
+  },
+  {
+    "rep": "_0xe6f6[1]",
+    "exp": "parse",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[1]",
-    "exp": "q",
+    "rep": "_0xe6f6[2]",
+    "exp": "Hex",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[2]",
-    "exp": "equals",
+    "rep": "_0xe6f6[3]",
+    "exp": "enc",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[3]",
-    "exp": "mod",
+    "rep": "_0xe6f6[4]",
+    "exp": "A796CFBC9D3F8893D76E6A2A1ECDDA58AAC855C6303BF543ED3A7B2964A2E18D9753BA14F146F4C43B540FAC5530503B16856C4A3ADE64DBA7B17A0557A8E120A8330DEB2380D34A41217CC58EF5F8EC96962CB6E5436B024FB9E12C86A9ECF8275B17AB2EF9D1B85F2F0E44A6740939D8726A647B744E78E25ADB74ED8FA08F",
+    "type": "brac"
+  },
+  {
+    "rep": "_0xe6f6[5]",
+    "exp": "10001",
+    "type": "brac"
+  },
+  {
+    "rep": "_0xe6f6[6]",
+    "exp": "1",
+    "type": "brac"
+  },
+  {
+    "rep": "_0xe6f6[7]",
+    "exp": "trim",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[4]",
-    "exp": "negate",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[5]",
-    "exp": "toBigInteger",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[6]",
-    "exp": "add",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[7]",
-    "exp": "subtract",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[8]",
-    "exp": "multiply",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[9]",
-    "exp": "square",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[10]",
-    "exp": "modInverse",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[11]",
+    "rep": "_0xe6f6[8]",
     "exp": "prototype",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[12]",
-    "exp": "divide",
+    "rep": "_0xe6f6[9]",
+    "exp": "function",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[13]",
-    "exp": "curve",
+    "rep": "_0xe6f6[10]",
+    "exp": "''",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[14]",
-    "exp": "y",
+    "rep": "_0xe6f6[11]",
+    "exp": "replace",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[15]",
-    "exp": "z",
+    "rep": "_0xe6f6[12]",
+    "exp": "memoize",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[16]",
-    "exp": "ONE",
+    "rep": "_0xe6f6[13]",
+    "exp": "getTime",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[17]",
-    "exp": "zinv",
+    "rep": "_0xe6f6[14]",
+    "exp": "random",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[18]",
-    "exp": "reduce",
+    "rep": "_0xe6f6[15]",
+    "exp": "floor",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[19]",
-    "exp": "fromBigInteger",
+    "rep": "_0xe6f6[16]",
+    "exp": "multiply",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[20]",
-    "exp": "isInfinity",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[21]",
-    "exp": "ZERO",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[22]",
-    "exp": "twice",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[23]",
-    "exp": "getInfinity",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[24]",
-    "exp": "3",
-    "type": "brac"
-  },
-  {
-    "rep": "_0x4e73[25]",
-    "exp": "shiftLeft",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[26]",
-    "exp": "signum",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[27]",
-    "exp": "a",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[28]",
-    "exp": "bitLength",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[29]",
-    "exp": "testBit",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[30]",
-    "exp": "getX",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[31]",
-    "exp": "getY",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[32]",
-    "exp": "multiplyTwo",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[33]",
-    "exp": "b",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[34]",
-    "exp": "infinity",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[35]",
-    "exp": "reducer",
-    "type": "func"
-  },
-  {
-    "rep": "_0x4e73[36]",
+    "rep": "_0xe6f6[17]",
     "exp": "length",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[37]",
-    "exp": "substr",
+    "rep": "_0xe6f6[18]",
+    "exp": "toBigInteger",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[38]",
-    "exp": "00",
-    "type": "brac"
+    "rep": "_0xe6f6[19]",
+    "exp": "getX",
+    "type": "func"
   },
   {
-    "rep": "_0x4e73[39]",
+    "rep": "_0xe6f6[20]",
+    "exp": "substring",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[21]",
     "exp": "getQ",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[40]",
-    "exp": "0",
-    "type": "brac"
+    "rep": "_0xe6f6[22]",
+    "exp": "getCurve",
+    "type": "func"
   },
   {
-    "rep": "_0x4e73[41]",
-    "exp": "04",
-    "type": "brac"
-  },
-  {
-    "rep": "_0x4e73[42]",
+    "rep": "_0xe6f6[23]",
     "exp": "getA",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[43]",
+    "rep": "_0xe6f6[24]",
     "exp": "getB",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[44]",
-    "exp": "decodePointHex",
+    "rep": "_0xe6f6[25]",
+    "exp": "getG",
     "type": "func"
   },
   {
-    "rep": "_0x4e73[45]",
-    "exp": "encodePointHex",
+    "rep": "_0xe6f6[26]",
+    "exp": "getY",
     "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[27]",
+    "exp": "getN",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[28]",
+    "exp": "charCodeAt",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[29]",
+    "exp": "push",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[30]",
+    "exp": "join",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[31]",
+    "exp": "slice",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[32]",
+    "exp": "0",
+    "type": "brac"
+  },
+  {
+    "rep": "_0xe6f6[33]",
+    "exp": "from",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[34]",
+    "exp": "init",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[35]",
+    "exp": "secp128r1",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[36]",
+    "exp": "fromBigInteger",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[37]",
+    "exp": "subtract",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[38]",
+    "exp": "bitLength",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[39]",
+    "exp": "add",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[40]",
+    "exp": "mod",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[41]",
+    "exp": "substr",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[42]",
+    "exp": "exportKey",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[43]",
+    "exp": "encryptToMF",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[44]",
+    "exp": "encryptToApp",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[45]",
+    "exp": "encryptToDLB",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[46]",
+    "exp": "04",
+    "type": "brac"
+  },
+  {
+    "rep": "_0xe6f6[47]",
+    "exp": "infinity",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[48]",
+    "exp": "Latin1",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[49]",
+    "exp": "Pkcs7",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[50]",
+    "exp": "pad",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[51]",
+    "exp": "CBC",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[52]",
+    "exp": "mode",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[53]",
+    "exp": "encrypt",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[54]",
+    "exp": "AES",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[55]",
+    "exp": "\\\\",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[56]",
+    "exp": "stringify",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[57]",
+    "exp": "Base64",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[58]",
+    "exp": "setPublic",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[59]",
+    "exp": "fromCharCode",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[60]",
+    "exp": "decryptFromApp",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[61]",
+    "exp": "create",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[62]",
+    "exp": "CipherParams",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[63]",
+    "exp": "lib",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[64]",
+    "exp": "decrypt",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[65]",
+    "exp": "decryptFromMF",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[66]",
+    "exp": "encryptHashPassword",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[67]",
+    "exp": "password is empty",
+    "type": "brac"
+  },
+  {
+    "rep": "_0xe6f6[68]",
+    "exp": "salt is empty",
+    "type": "brac"
+  },
+  {
+    "rep": "_0xe6f6[69]",
+    "exp": "toUpperCase",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[70]",
+    "exp": "01",
+    "type": "brac"
+  },
+  {
+    "rep": "_0xe6f6[71]",
+    "exp": "sign",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[72]",
+    "exp": "getVersion",
+    "type": "func"
+  },
+  {
+    "rep": "_0xe6f6[73]",
+    "exp": "8.2",
+    "type": "brac"
+  },
+  {
+    "rep": "_0xe6f6[74]",
+    "exp": "DLECC",
+    "type": "func"
+  },
+  {
+    "rep": "_0xaab0x",
+    "exp": "variable",
+    "type": "var"
   }
 ]
